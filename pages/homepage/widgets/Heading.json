@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 22,
+  "bottomRow": 21,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -42,8 +42,8 @@
   "shouldTruncate": false,
   "text": "Daily/Monthly Stats",
   "textAlign": "CENTER",
-  "textColor": "#231F20",
-  "topRow": 18,
+  "textColor": "#71717a",
+  "topRow": 17,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
